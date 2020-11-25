@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React3DViewer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React3DViewer/static/js/main.b904a0c1.chunk.js",
+    "main.js.map": "/React3DViewer/static/js/main.b904a0c1.chunk.js.map",
+    "runtime-main.js": "/React3DViewer/static/js/runtime-main.1f8fc8bf.js",
+    "runtime-main.js.map": "/React3DViewer/static/js/runtime-main.1f8fc8bf.js.map",
+    "static/js/2.8f3bb584.chunk.js": "/React3DViewer/static/js/2.8f3bb584.chunk.js",
+    "static/js/2.8f3bb584.chunk.js.map": "/React3DViewer/static/js/2.8f3bb584.chunk.js.map",
+    "static/js/3.e17f5a94.chunk.js": "/React3DViewer/static/js/3.e17f5a94.chunk.js",
+    "static/js/3.e17f5a94.chunk.js.map": "/React3DViewer/static/js/3.e17f5a94.chunk.js.map",
+    "index.html": "/React3DViewer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React3DViewer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8f3bb584.chunk.js.LICENSE.txt": "/React3DViewer/static/js/2.8f3bb584.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React3DViewer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f8fc8bf.js",
+    "static/js/2.8f3bb584.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b904a0c1.chunk.js"
+  ]
+}
